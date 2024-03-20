@@ -1,0 +1,20 @@
+{
+    "AgentController": {
+        "checkpoints": [
+            {
+                "steps": 13844,
+                "file_path": "results\\RayPerceptionSensors\\AgentController\\AgentController-13844.onnx",
+                "reward": null,
+                "creation_time": 1710795495.1880856,
+                "auxillary_file_paths": [
+                    "results\\RayPerceptionSensors\\AgentController\\AgentController-13844.pt"
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}
